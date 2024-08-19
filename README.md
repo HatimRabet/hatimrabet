@@ -10,7 +10,7 @@
 </div>
 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/46565c0e-607d-4bb8-88cf-5810d7b4b864/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433" alt="GIF" style="width:30%; margin-left:20px;">
+  ![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/46565c0e-607d-4bb8-88cf-5810d7b4b864)
 </div>
 
 
