@@ -18,10 +18,6 @@
 ## 🌟 **Hatim's GitHub Stats**
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HatimRabet&theme=react-dark" alt="Hatim's GitHub Activity Graph" width="80%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical" alt="Hatim's GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRabet&theme=radical" alt="Hatim's GitHub Streak" width="45%" />
 </p>
