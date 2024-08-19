@@ -19,13 +19,13 @@
 </div>
 
 <p align="center">
- % <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical" alt="Hatim's GitHub Stats" width="45%" />
+ <! -- <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical" alt="Hatim's GitHub Stats" width="45%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRabet&theme=radical" alt="Hatim's GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stars&disable_animations=true&theme=radical" alt="Hatim's GitHub Stars" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatimRabet&langs_count=8&theme=radical&layout=compact&hide=html" alt="Top Languages" width="45%" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatimRabet&langs_count=8&theme=radical&layout=compact&hide=html" alt="Top Languages" width="45%" /> -->
 </p>
 
 
