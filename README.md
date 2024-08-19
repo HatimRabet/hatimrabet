@@ -18,7 +18,7 @@
 ## 🌟 **Hatim's GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HatimRabet&theme=react-dark&hide_border=true&area=true" alt="Hatim's GitHub Activity Graph" width="80%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=HatimRabet&theme=react-dark" alt="Hatim's GitHub Activity Graph" width="80%" />
 </p>
 
 <p align="center">
