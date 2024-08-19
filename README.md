@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
- <! -- <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical" alt="Hatim's GitHub Stats" width="45%" /> -->
+ <! -- <img src="https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical" alt="Hatim's GitHub Stats" width="45%" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRabet&theme=radical" alt="Hatim's GitHub Streak" width="45%" />
 </p>
 
