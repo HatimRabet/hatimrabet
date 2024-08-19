@@ -2,7 +2,8 @@
 
 I'm currently a final-year engineering student at CentraleSupélec, specializing in Artificial Intelligence and Mathematics. In addition, I'm pursuing the prestigious MVA (Mathematics, Vision, and Learning) Master's program at ENS Paris-Saclay, a research-oriented course focused on cutting-edge advancements in AI.
 
-![image](https://github.com/user-attachments/assets/295825a8-25bf-485d-ab2c-7d8a72474cc2)
+
+![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/4918e8d8-6786-4ef9-b2a2-e360e4114e8b)
 
 
 <!--
