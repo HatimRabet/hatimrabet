@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently a final-year engineering student at CentraleSupélec, specializing in Artificial Intelligence and Mathematics. In addition, I'm pursuing the prestigious MVA (Mathematics, Vision, and Learning) Master's program at ENS Paris-Saclay, a research-oriented course focused on cutting-edge advancements in AI.
+
+![image](https://github.com/user-attachments/assets/295825a8-25bf-485d-ab2c-7d8a72474cc2)
+
+
 <!--
 **HatimRabet/hatimrabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
