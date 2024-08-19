@@ -15,30 +15,22 @@
 
 
 
-## Hatim's GitHub Stats 🌟
+## 🌟 **Hatim's GitHub Stats**
 
-|                                                                                   **Hatim's GitHub Statistics**                                                                                   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Hatim's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=HatimRabet&theme=react-dark&hide_border=true&area=true) |
-| ![Hatim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=algolia)                           |
-| ![Hatim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HatimRabet&theme=algolia)                                  |
+### 📈 **Activity Graph**
+![Hatim's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HatimRabet&theme=react-dark&hide_border=true&area=true)
 
-|                                                                                                     **Hatim's Stars**                                                                                       
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) 
+### 📊 **GitHub Stats**
+![Hatim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&theme=radical)
 
-|                                             **Top Languages**                                             |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimRabet&langs_count=8&theme=algolia&layout=compact&hide=html) |
+### 🔥 **Streak Stats**
+![Hatim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HatimRabet&theme=radical)
 
+### ⭐ **GitHub Stars**
+![Hatim's GitHub Stars](https://github-readme-stats.vercel.app/api?username=HatimRabet&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stars&disable_animations=true&theme=radical)
 
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
+### 🌐 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimRabet&langs_count=8&theme=radical&layout=compact&hide=html)
 
 
 <!--
