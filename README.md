@@ -15,7 +15,7 @@
 
 
 <div align = 'center'>
-  🌟 **Hatim's GitHub Stats**
+  🌟 <strong> Hatim's GitHub Stats  </strong>
 </div>
 
 <p align="center">
