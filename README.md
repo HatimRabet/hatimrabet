@@ -1,7 +1,7 @@
 <div align="center">
   <p>Hi there 👋</p>
   <p>My name is Hatim, I'm currently a final-year engineering student at CentraleSupélec, specializing in Artificial Intelligence and Mathematics. In addition, I'm pursuing the prestigious MVA (Mathematics, Vision, and Learning) Master's program at ENS Paris-Saclay, a research-oriented course focused on cutting-edge advancements in AI.</p>
-  <img src="https://github.com/user-attachments/assets/4918e8d8-6786-4ef9-b2a2-e360e4114e8b/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433" alt="Image" style="width:50%;">
+  <img src="https://github.com/user-attachments/assets/4918e8d8-6786-4ef9-b2a2-e360e4114e8b/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433" alt="Image" style="width:30%; margin-left:20px;">
   <div id="badges">
     <a href="https://www.linkedin.com/in/hatim-mrabet-b61884226/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,8 +9,6 @@
   </div>
 </div>
 
-
-![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/46565c0e-607d-4bb8-88cf-5810d7b4b864)
 
 
 <!--
